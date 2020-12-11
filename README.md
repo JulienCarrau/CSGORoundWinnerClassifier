@@ -2,12 +2,10 @@
 A K-Neighbors classifier built with Scikit-learn.
 
 ## Model hyperparameters
-Hyperparameter tuned with GridSearchCV.
-*n_neighbors* = 2.
+Hyperparameter tuned with GridSearchCV: *n_neighbors* = 2.
 
 ## Model accuracy
-Classification report accuracy = 84%.
-Cross-Validation score averaged = 81%. 
+Classification report accuracy = 84% and Cross-Validation score averaged = 81%. 
 
 ## Packages used
 Numpy, pandas, scikit-learn.
